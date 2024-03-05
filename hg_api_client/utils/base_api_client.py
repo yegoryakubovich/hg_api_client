@@ -15,7 +15,7 @@
 #
 
 
-from hutki_grosh_api_client.utils.base_route import BaseRoute
+from ..utils.base_route import BaseRoute
 
 
 class BaseApiClient(BaseRoute):

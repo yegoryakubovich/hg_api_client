@@ -18,7 +18,7 @@
 from addict import Dict
 from aiohttp import ClientSession
 
-from hutki_grosh_api_client.utils import BaseRoute, RequestTypes
+from ...utils import BaseRoute, RequestTypes
 
 
 class ClientTokenRoute(BaseRoute):

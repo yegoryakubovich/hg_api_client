@@ -17,7 +17,7 @@
 
 from .token import ClientTokenRoute
 from .invoices import ClientInvoiceRoute
-from hutki_grosh_api_client.utils import BaseApiClient
+from ..utils import BaseApiClient
 
 
 class HutkiGroshApiClient(BaseApiClient):

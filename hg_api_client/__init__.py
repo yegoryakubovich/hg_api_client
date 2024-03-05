@@ -15,4 +15,4 @@
 #
 
 
-from hutki_grosh_api_client.routes import HutkiGroshApiClient
+from .routes import HutkiGroshApiClient

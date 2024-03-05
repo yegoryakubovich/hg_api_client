@@ -17,7 +17,7 @@
 
 from datetime import datetime, timedelta
 
-from hutki_grosh_api_client.utils import BaseRoute, RequestTypes
+from ...utils import BaseRoute, RequestTypes
 
 
 class ClientInvoiceRoute(BaseRoute):
